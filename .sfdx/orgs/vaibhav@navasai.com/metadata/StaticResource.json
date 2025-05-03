@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-01-14T17:17:44.000Z",
+      "fileName": "staticresources/background.resource",
+      "fullName": "background",
+      "id": "0812w000002AsaFAAS",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-01-14T17:25:49.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-01-31T13:22:44.000Z",
+      "fileName": "staticresources/jsPDF.resource",
+      "fullName": "jsPDF",
+      "id": "0812w000002BCuiAAG",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-01-31T13:22:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    },
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-01-19T07:20:33.000Z",
+      "fileName": "staticresources/SiteSamples.resource",
+      "fullName": "SiteSamples",
+      "id": "0812w000002AzIvAAK",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-01-19T07:20:33.000Z",
+      "manageableState": "unmanaged",
+      "type": "StaticResource"
+    }
+  ]
+}

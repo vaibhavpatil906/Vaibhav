@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-01-19T07:22:34.000Z",
+      "fileName": "sites/Navasai_Properties.site",
+      "fullName": "Navasai_Properties",
+      "id": "0DM2w000000E6JJGA0",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-01-19T07:22:39.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-02-23T04:47:58.000Z",
+      "fileName": "sites/Portfolio_Site.site",
+      "fullName": "Portfolio_Site",
+      "id": "0DM2w000000ECO3GAO",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-02-23T09:20:06.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0052w00000CLnA7AAL",
+      "createdByName": "Vaibhav Patil",
+      "createdDate": "2023-07-13T07:48:11.000Z",
+      "fileName": "sites/Vinayak_s_Portfolio.site",
+      "fullName": "Vinayak_s_Portfolio",
+      "id": "0DM2w000000iHjoGAE",
+      "lastModifiedById": "0052w00000CLnA7AAL",
+      "lastModifiedByName": "Vaibhav Patil",
+      "lastModifiedDate": "2023-07-13T08:26:28.000Z",
+      "type": "CustomSite"
+    }
+  ]
+}
